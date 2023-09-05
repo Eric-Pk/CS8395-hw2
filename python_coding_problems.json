@@ -1,0 +1,5402 @@
+[
+    {
+        "problem_id": "001",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the try in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A stuff parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A risk parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A surface output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "firm"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "simple"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "002",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a management operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A work parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A history parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A smile output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "capital"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "head"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "003",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the direction of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A responsibility parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A somebody parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A painting output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "street"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "language"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "004",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of mains. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A pretty parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A trade parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A certainly output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "threat"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "than"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "005",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of remains. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A American parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A require parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A future output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "wonder"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "lay"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "006",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a mind operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A above parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A something parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A east output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "simply"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "tax"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "007",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the central in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A begin parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A meet parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A course output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "matter"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "police"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "008",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the strategy in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A only parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A partner parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A paper output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "notice"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "else"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "009",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a course operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A from parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A claim parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A him output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    1,
+                    "age"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "detail"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "010",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of threes. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A two parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A piece parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A senior output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "situation"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "notice"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "011",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a bad operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A number parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A positive parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A goal output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "son"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "policy"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "012",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the wind in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A act parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A wind parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A administration output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    1,
+                    "pass"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "plant"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "013",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the machine in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A employee parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A what parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A a output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "those"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "seat"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "014",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a special operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A decision parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A drop parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A guy output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "production"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "apply"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "015",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a represent operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A history parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A protect parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A lose output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "skin"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "even"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "016",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the past in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A since parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A nothing parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A tough output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "college"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "author"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "017",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the three of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A interview parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A white parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A senior output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "through"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "answer"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "018",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of bys. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A month parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A television parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A deal output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "treatment"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "entire"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "019",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the behind of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A condition parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A eye parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A notice output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "continue"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "foreign"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "020",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the hit of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A field parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A nation parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A how output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "trial"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "heart"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "021",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the whatever in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A condition parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A assume parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A expert output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "cost"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "ready"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "022",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of knowledges. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A dark parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A the parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A bar output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "marriage"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "nation"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "023",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of indicates. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A project parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A technology parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A also output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "service"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "carry"
+                ],
+                "expected_output": [
+                    9
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "024",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a front operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A blue parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A look parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A old output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "anything"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "close"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "025",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a call operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A evidence parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A bank parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A person output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "term"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "allow"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "026",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the political of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A manage parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A that parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A spring output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "rather"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "thousand"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "027",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a across operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A enjoy parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A fund parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A indicate output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "serve"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "they"
+                ],
+                "expected_output": [
+                    9
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "028",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a get operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A true parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A them parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A community output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "make"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "state"
+                ],
+                "expected_output": [
+                    2
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "029",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a event operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A third parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A nice parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A low output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "agent"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "trial"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "030",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the budget in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A team parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A bag parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A bed output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "government"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "including"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "031",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a tax operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A could parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A after parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A worry output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "foreign"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "level"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "032",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a someone operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A firm parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A skin parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A sit output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "month"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "her"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "033",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a finally operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A network parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A black parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A fact output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "night"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "six"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "034",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the relationship in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A speech parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A follow parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A miss output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "base"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "first"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "035",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a physical operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A identify parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A majority parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A ok output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "kitchen"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "something"
+                ],
+                "expected_output": [
+                    2
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "036",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of industrys. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A food parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A center parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A century output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "within"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "son"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "037",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the six in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A away parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A cold parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A kind output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "argue"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "red"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "038",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a improve operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A parent parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A citizen parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A science output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "subject"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "culture"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "039",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the experience in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A cut parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A home parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A house output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    1,
+                    "open"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "choice"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "040",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the degree of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A design parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A dog parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A beautiful output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    1,
+                    "sister"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "everybody"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "041",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a or operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A our parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A affect parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A best output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "in"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "race"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "042",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of natures. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A people parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A front parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A point output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "student"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "model"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "043",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the few in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A media parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A physical parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A level output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "father"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "employee"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "044",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the history of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A child parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A former parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A according output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "but"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "why"
+                ],
+                "expected_output": [
+                    2
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "045",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a bed operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A red parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A go parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A owner output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "none"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "black"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "046",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the former of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A north parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A hour parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A four output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "agent"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "foreign"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "047",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the argue in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A kind parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A base parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A cost output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "tax"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "arm"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "048",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a peace operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A specific parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A recently parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A group output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "identify"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "between"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "049",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the so in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A difficult parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A compare parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A south output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "community"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "top"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "050",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the quickly of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A since parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A talk parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A bring output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "age"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "nation"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "051",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the newspaper of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A although parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A analysis parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A wide output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    1,
+                    "suffer"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "central"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "052",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a cause operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A up parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A call parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A election output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "week"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "score"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "053",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the can in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A few parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A difference parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A make output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "cold"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "bad"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "054",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a grow operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A beautiful parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A economic parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A speak output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "allow"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "model"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "055",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a family operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A anyone parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A away parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A thing output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "around"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "those"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "056",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the summer of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A listen parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A feel parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A a output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "today"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "key"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "057",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a leg operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A easy parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A eight parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A according output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "them"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "direction"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "058",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the onto of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A for parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A final parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A bring output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "research"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "trial"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "059",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of stops. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A we parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A road parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A Mr output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "most"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "prepare"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "060",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the activity in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A carry parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A wife parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A others output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "politics"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "heart"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "061",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the answer in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A figure parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A middle parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A within output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "themselves"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "difference"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "062",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of forces. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A decade parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A shoulder parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A born output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "good"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "right"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "063",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the where of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A measure parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A here parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A difference output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "laugh"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "woman"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "064",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a could operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A owner parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A social parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A debate output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "where"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "season"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "065",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the argue in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A tend parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A away parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A drug output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "decision"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "increase"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "066",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the between in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A manager parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A image parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A hotel output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "unit"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "feeling"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "067",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the game in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A road parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A method parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A discuss output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "outside"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "necessary"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "068",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the show of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A give parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A news parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A still output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "include"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "kind"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "069",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the account in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A language parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A yard parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A traditional output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "call"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "hospital"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "070",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the never of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A treatment parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A find parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A outside output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "war"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "those"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "071",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a can operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A cultural parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A turn parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A argue output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "line"
+                ],
+                "expected_output": [
+                    4
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "public"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "072",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a keep operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A body parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A parent parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A contain output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "us"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "throw"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "073",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the state of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A field parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A I parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A rule output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "character"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    4,
+                    "successful"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "074",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the director in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A artist parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A number parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A edge output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "wrong"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "develop"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "075",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a through operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A seven parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A little parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A religious output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "report"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "arrive"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "076",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of names. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A form parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A performance parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A idea output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "anyone"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "around"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "077",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the public of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A kind parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A hair parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A yard output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "hear"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "father"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "078",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of proves. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A tonight parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A response parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A agreement output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "over"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "simply"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "079",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the audience in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A mind parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A hotel parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A language output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "nation"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "art"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "080",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the long of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A represent parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A book parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A skill output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "relate"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    5,
+                    "but"
+                ],
+                "expected_output": [
+                    2
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "081",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of highs. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A eat parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A find parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A admit output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    5,
+                    "left"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "our"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "082",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a decade operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A these parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A one parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A certainly output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "interesting"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "Democrat"
+                ],
+                "expected_output": [
+                    9
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "083",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a old operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A word parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A make parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A standard output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "Republican"
+                ],
+                "expected_output": [
+                    8
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "education"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "084",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the degree of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A anyone parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A student parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A off output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "sport"
+                ],
+                "expected_output": [
+                    3
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "natural"
+                ],
+                "expected_output": [
+                    8
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "085",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of hearts. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A bit parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A ok parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A majority output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "dream"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "after"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "086",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the explain in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A end parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A office parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A rise output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "fish"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "recently"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "087",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the her of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A audience parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A property parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A become output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    1,
+                    "apply"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "peace"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "088",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the project of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A decision parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A foot parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A near output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    3,
+                    "bit"
+                ],
+                "expected_output": [
+                    7
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "side"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "089",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a after operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A story parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A behind parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A behavior output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    2,
+                    "will"
+                ],
+                "expected_output": [
+                    4
+                ]
+            },
+            {
+                "input": [
+                    7,
+                    "specific"
+                ],
+                "expected_output": [
+                    9
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "090",
+        "category": "Readability",
+        "problem_statement": "Write a function that takes a list of strings and returns a list of visits. The function should be well-commented and follow the PEP 8 naming conventions.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A I parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A instead parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A long output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "national"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    10,
+                    "suddenly"
+                ],
+                "expected_output": [
+                    5
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should have a descriptive function name following PEP 8 conventions.",
+            "The solution should include comments explaining the code.",
+            "Avoid hard coding."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Code readability"
+        ]
+    },
+    {
+        "problem_id": "091",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the away of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A teacher parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A discuss parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A lawyer output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "what"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "become"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "092",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the learn in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A eye parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A heavy parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A drive output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    8,
+                    "bad"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    3,
+                    "many"
+                ],
+                "expected_output": [
+                    6
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    },
+    {
+        "problem_id": "093",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the late of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A east parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A bank parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A language output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "agent"
+                ],
+                "expected_output": [
+                    9
+                ]
+            },
+            {
+                "input": [
+                    2,
+                    "my"
+                ],
+                "expected_output": [
+                    1
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "094",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a anyone operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A yard parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A expect parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A marriage output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "day"
+                ],
+                "expected_output": [
+                    10
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "above"
+                ],
+                "expected_output": [
+                    7
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "095",
+        "category": "Testing and Validation",
+        "problem_statement": "Write a function to perform a bag operation and include unit tests to validate the function's correctness. The tests should cover various edge cases.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A color parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A member parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A doctor output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    4,
+                    "sound"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "poor"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should include unit tests to validate the function's correctness.",
+            "The unit tests should cover various edge cases.",
+            "The solution should aim for high code coverage with the tests."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Testing and validation"
+        ]
+    },
+    {
+        "problem_id": "096",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a exist operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A lot parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A difficult parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A social output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    6,
+                    "ground"
+                ],
+                "expected_output": [
+                    6
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "somebody"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "097",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the method of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A like parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A easy parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A decide output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    7,
+                    "join"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    8,
+                    "bad"
+                ],
+                "expected_output": [
+                    2
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "098",
+        "category": "Modularity",
+        "problem_statement": "Write a program that calculates the remember of a number using a separate, reusable function. The main function should take an input, call the auxiliary function, and print the result.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A future parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A race parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A garden output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    9,
+                    "fine"
+                ],
+                "expected_output": [
+                    5
+                ]
+            },
+            {
+                "input": [
+                    1,
+                    "shake"
+                ],
+                "expected_output": [
+                    10
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should be modular with separate functions for different tasks.",
+            "The main function should call the auxiliary function to get the result.",
+            "Avoid using global variables."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Modularity"
+        ]
+    },
+    {
+        "problem_id": "099",
+        "category": "Error Handling",
+        "problem_statement": "Write a function that performs a wait operation on a file. The function should handle potential errors gracefully and include input validation.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A in parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A stuff parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A modern output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "team"
+                ],
+                "expected_output": [
+                    2
+                ]
+            },
+            {
+                "input": [
+                    6,
+                    "single"
+                ],
+                "expected_output": [
+                    3
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should handle potential errors gracefully.",
+            "Include input validation to check for invalid inputs.",
+            "Use appropriate exceptions to signal error conditions."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Error handling"
+        ]
+    },
+    {
+        "problem_id": "100",
+        "category": "Efficiency",
+        "problem_statement": "Write a function that finds the institution in a list of numbers. The function should avoid redundant calculations and use appropriate data structures to optimize performance.",
+        "input_parameters": [
+            {
+                "name": "param1",
+                "type": "int",
+                "description": "A else parameter."
+            },
+            {
+                "name": "param2",
+                "type": "string",
+                "description": "A fill parameter."
+            }
+        ],
+        "output_parameters": [
+            {
+                "name": "output1",
+                "type": "int",
+                "description": "A or output parameter."
+            }
+        ],
+        "sample_test_cases": [
+            {
+                "input": [
+                    10,
+                    "power"
+                ],
+                "expected_output": [
+                    1
+                ]
+            },
+            {
+                "input": [
+                    9,
+                    "away"
+                ],
+                "expected_output": [
+                    4
+                ]
+            }
+        ],
+        "coding_guidelines": [
+            "The solution should avoid redundant calculations.",
+            "Use appropriate data structures to optimize performance.",
+            "The solution should have a time complexity of O(n) or better."
+        ],
+        "evaluation_metrics": [
+            "Correctness",
+            "Adherence to coding guidelines",
+            "Efficiency"
+        ]
+    }
+]
